@@ -38,5 +38,6 @@ I open a new word pages and give a example:
 I would like to enter something like the above,Let's see how this is done with a screen recording！
 
 
-![Uploading 屏幕录制2021-05-04 下午8.31.40.gif…](Example)
+![屏幕录制2021-05-04 下午8 31 40](https://user-images.githubusercontent.com/62950321/117005668-1c457100-ad1a-11eb-880f-5046b3a27611.gif)
+
 
