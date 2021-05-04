@@ -19,4 +19,9 @@ In fact,as a software, I think its capabilities is as same sa Mathtype.It is mad
 
 You can click [:link: HERE](https://www.axsoft.co/axmath/) to get further information.
 ### LaTeX
-I am writing this article mainly to discuss the use of $\LaTeX$ in MS office.
+I am writing this article mainly to discuss the use of LaTeX in MS office.
+
+This is due to the fact that I have just bought a Macbook Air with M1 chip.According to my writing needs,I need use MS office and type math formulas in it.
+
+Actually,it takes me much time to find this method and it does works.Let me show you how to make it.
+
