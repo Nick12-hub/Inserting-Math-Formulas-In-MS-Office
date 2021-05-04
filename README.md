@@ -40,4 +40,8 @@ I would like to enter something like the above,Let's see how this is done with a
 
 ![屏幕录制2021-05-04 下午8 31 40](https://user-images.githubusercontent.com/62950321/117005668-1c457100-ad1a-11eb-880f-5046b3a27611.gif)
 
+Due to website limitations, our videos cannot be uploaded in very high quality.
 
+This in fact provides a viable and convenient solution.
+
+If you have a __better__ way of doing this, please discuss it with me, I would appreciate it!
