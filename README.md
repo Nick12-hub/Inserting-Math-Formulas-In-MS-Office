@@ -19,4 +19,4 @@ In fact,as a software, I think its capabilities is as same sa Mathtype.It is mad
 
 You can click [:link: HERE](https://www.axsoft.co/axmath/) to get further information.
 ### LaTeX
-I am writing this article mainly to discuss the use of \\[LaTeX \\] in MS office.
+I am writing this article mainly to discuss the use of \LaTeX in MS office.
