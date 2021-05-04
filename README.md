@@ -37,3 +37,6 @@ I open a new word pages and give a example:
 
 I would like to enter something like the above,Let's see how this is done with a screen recording！
 
+
+![Uploading 屏幕录制2021-05-04 下午8.31.40.gif…](Example)
+
