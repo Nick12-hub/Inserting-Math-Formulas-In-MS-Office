@@ -17,6 +17,12 @@ You can click [:link: HERE](https://www.wiris.com/en/mathtype/) to get further i
 In fact,as a software, I think its capabilities is as same sa Mathtype.It is made in China and it is cheaper than Mathtype.You can try it and You'll find I was right.
 
 You can click [:link: HERE](https://www.axsoft.co/axmath/) to get further information.
+
+If you have a MacBook with M1 chip, maybe it's the best way to enter math formulas by Axmath. I did this by installing it on a virtual machine(Parallel Desktop), It is amazing! It's so fast and effictive, I highly recommend this combination for everyone！！！
+
+The interface is shown below, very clean and efficient:
+
+<img width="1104" alt="屏幕快照 2021-09-20 下午16 30 31 下午" src="https://user-images.githubusercontent.com/62950321/133975007-94d2fdaf-5dc7-4a2c-879b-f900819de527.png">
 ## LaTeX
 I am writing this article mainly to discuss the use of LaTeX in MS office.
 
