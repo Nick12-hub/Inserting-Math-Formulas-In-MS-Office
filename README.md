@@ -1,13 +1,13 @@
 # How-to-enter-mathematical-formulas-in-Ms-Office
 This article show diffrent ways to enter mathmatical formulas in __Ms office__
 ## Three normal methods
-```
-Mathtype
 
-Axmath
++ **Mathtype**
 
-LaTeX
-```
++ **Axmath**
+
++ **LaTeX**
+
 
 ## Mathtype
 It is, as a software, the most used mathematical formula editor on the market today. We can download him and he will automatically configure the plugin in Ms office.One disadvantage is that he is more expensive...
@@ -18,11 +18,12 @@ In fact,as a software, I think its capabilities is as same sa Mathtype.It is mad
 
 You can click [:link: HERE](https://www.axsoft.co/axmath/) to get further information.
 
-If you have a MacBook with M1 chip, maybe it's the best way to enter math formulas by Axmath. I did this by installing it on a virtual machine(Parallel Desktop), It is amazing! It's so fast and effictive, I highly recommend this combination for everyone！！！
+If you have a **MacBook with M1 chip**, maybe it's the best way to enter math formulas by Axmath. I did this by installing it on a virtual machine(Parallel Desktop), It is amazing! It's so fast and effictive, I highly recommend this combination for everyone！！！
 
 The interface is shown below, very clean and efficient:
 
-<img width="1104" alt="屏幕快照 2021-09-20 下午16 30 31 下午" src="https://user-images.githubusercontent.com/62950321/133975007-94d2fdaf-5dc7-4a2c-879b-f900819de527.png">
+<img width="500" alt="屏幕快照 2021-09-20 下午16 30 31 下午" src="https://user-images.githubusercontent.com/62950321/133975007-94d2fdaf-5dc7-4a2c-879b-f900819de527.png">
+
 ## LaTeX
 I am writing this article mainly to discuss the use of LaTeX in MS office.
 
