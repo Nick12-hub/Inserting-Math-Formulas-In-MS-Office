@@ -1,5 +1,5 @@
-# How-to-enter-mathematical-formulas-in-Ms-Office
-This article show diffrent ways to enter mathmatical formulas in __Ms office__
+# How-to-enter-Math-formulas-in-Ms-Office
+This article show diffrent ways to enter mathmatical formulas in __Microsoft Office 365__.It started when I bought a new Mac with M1 chip, but I don't know the best or convienent way to enter math formula 😄 .So I tried to solve this problem, so there is this article, I hope it will help you！
 ## Three normal methods
 
 + **Mathtype**
