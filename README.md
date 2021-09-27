@@ -25,7 +25,7 @@ The interface is shown below, very clean and efficient:
 <img width="500" alt="屏幕快照 2021-09-20 下午16 30 31 下午" src="https://user-images.githubusercontent.com/62950321/133975007-94d2fdaf-5dc7-4a2c-879b-f900819de527.png">
 
 ## LaTeX
-I am writing this article mainly to discuss the use of LaTeX in MS office.
+I am writing this article mainly to discuss the use of LaTeX in MS office.One small problem is that it seems that currently it can only be imported as an image. This means that changes have to be re-edited.(Maybe I'm just not very good at!)
 
 This is due to the fact that I have just bought a Macbook Air with M1 chip.According to my writing needs,I need use MS office and type math formulas in it.
 
