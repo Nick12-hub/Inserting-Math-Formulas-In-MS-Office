@@ -10,7 +10,7 @@ This article show diffrent ways to enter mathmatical formulas in __Microsoft Off
 
 
 ## Mathtype
-As the most used mathematical formula editor on the market today. We can download it and it will automatically configure the plugin in Ms office. One disadvantage is that it is more expensive...
+As the most used mathematical formula editor on the market today. You can download it and it will automatically configure the plugin in Ms office. One disadvantage is that it is more expensive...
 
 You can click [:link: HERE](https://www.wiris.com/en/mathtype/) to get further information.
 ## Axmath
