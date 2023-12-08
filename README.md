@@ -10,11 +10,11 @@ This article show diffrent ways to enter mathmatical formulas in __Microsoft Off
 
 
 ## Mathtype
-It is, as a software, the most used mathematical formula editor on the market today. We can download him and he will automatically configure the plugin in Ms office.One disadvantage is that he is more expensive...
+As the most used mathematical formula editor on the market today. We can download it and it will automatically configure the plugin in Ms office. One disadvantage is that it is more expensive...
 
 You can click [:link: HERE](https://www.wiris.com/en/mathtype/) to get further information.
 ## Axmath
-In fact,as a software, I think its capabilities is as same sa Mathtype.It is made in China and it is cheaper than Mathtype.You can try it and You'll find I was right.
+In fact,as a software, I think its capabilities is as same sa Mathtype. It is made in China and it is cheaper than Mathtype.You can try it and You'll find I was right.
 
 You can click [:link: HERE](https://www.axsoft.co/axmath/) to get further information.
 
@@ -27,9 +27,9 @@ The interface is shown below, very clean and efficient:
 ## LaTeX
 I am writing this article mainly to discuss the use of LaTeX in MS office.One small problem is that it seems that currently it can only be imported as an image. This means that changes have to be re-edited.(Maybe I'm just not very good at!)
 
-This is due to the fact that I have just bought a Macbook Air with M1 chip.According to my writing needs,I need use MS office and type math formulas in it.
+This is due to the fact that I have just bought a Macbook Air with M1 chip.According to my writing needs, I need use MS office and type math formulas in it.
 
-Actually,it takes me much time to find this method and it does works.Let me show you how to make it.
+Actually,it takes me much time to find this method and it does works. Let me show you how to make it.
 
 Before I do so, I would like to make it clear that the __Version__ of office and TeX Releases.
 ```
